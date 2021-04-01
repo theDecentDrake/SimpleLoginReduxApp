@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/SimpleLoginReduxApp/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/SimpleLoginReduxApp/static/js/main.bd8d216e.chunk.js",
+    "main.js.map": "/SimpleLoginReduxApp/static/js/main.bd8d216e.chunk.js.map",
+    "runtime-main.js": "/SimpleLoginReduxApp/static/js/runtime-main.4ee3fe51.js",
+    "runtime-main.js.map": "/SimpleLoginReduxApp/static/js/runtime-main.4ee3fe51.js.map",
+    "static/js/2.511b0c57.chunk.js": "/SimpleLoginReduxApp/static/js/2.511b0c57.chunk.js",
+    "static/js/2.511b0c57.chunk.js.map": "/SimpleLoginReduxApp/static/js/2.511b0c57.chunk.js.map",
+    "index.html": "/SimpleLoginReduxApp/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/SimpleLoginReduxApp/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.511b0c57.chunk.js.LICENSE.txt": "/SimpleLoginReduxApp/static/js/2.511b0c57.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/SimpleLoginReduxApp/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ee3fe51.js",
+    "static/js/2.511b0c57.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.bd8d216e.chunk.js"
+  ]
+}
